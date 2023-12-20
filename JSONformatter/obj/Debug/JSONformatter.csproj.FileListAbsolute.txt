@@ -1,0 +1,13 @@
+C:\Users\krzysztof.patelka\source\repos\JSONformatter\JSONformatter\bin\Debug\JSONformatter.exe.config
+C:\Users\krzysztof.patelka\source\repos\JSONformatter\JSONformatter\bin\Debug\JSONformatter.exe
+C:\Users\krzysztof.patelka\source\repos\JSONformatter\JSONformatter\bin\Debug\JSONformatter.pdb
+C:\Users\krzysztof.patelka\source\repos\JSONformatter\JSONformatter\obj\Debug\JSONformatter.csproj.AssemblyReference.cache
+C:\Users\krzysztof.patelka\source\repos\JSONformatter\JSONformatter\obj\Debug\JSONformatter.Form1.resources
+C:\Users\krzysztof.patelka\source\repos\JSONformatter\JSONformatter\obj\Debug\JSONformatter.Properties.Resources.resources
+C:\Users\krzysztof.patelka\source\repos\JSONformatter\JSONformatter\obj\Debug\JSONformatter.csproj.GenerateResource.cache
+C:\Users\krzysztof.patelka\source\repos\JSONformatter\JSONformatter\obj\Debug\JSONformatter.csproj.CoreCompileInputs.cache
+C:\Users\krzysztof.patelka\source\repos\JSONformatter\JSONformatter\obj\Debug\JSONformatter.exe
+C:\Users\krzysztof.patelka\source\repos\JSONformatter\JSONformatter\obj\Debug\JSONformatter.pdb
+C:\Users\krzysztof.patelka\source\repos\JSONformatter\JSONformatter\bin\Debug\Newtonsoft.Json.dll
+C:\Users\krzysztof.patelka\source\repos\JSONformatter\JSONformatter\bin\Debug\Newtonsoft.Json.xml
+C:\Users\krzysztof.patelka\source\repos\JSONformatter\JSONformatter\obj\Debug\JSONformatter.csproj.CopyComplete
